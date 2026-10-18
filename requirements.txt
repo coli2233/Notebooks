@@ -1,0 +1,6 @@
+notebook
+numpy
+pandas
+display
+matplotlib
+openpyxl
